@@ -14,7 +14,7 @@
 
 ## Should Haves
 
-- [ ] if user click on flight detail he/she can she the single flight details
+- [ ] if user click on flight detail user can she the single flight details
 
 ## Could Haves
 
